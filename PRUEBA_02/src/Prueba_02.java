@@ -38,6 +38,12 @@ public class Prueba_02 {
 		
 		System.out.println("Cambio_21");
 		System.out.println("Cambio_22");
+		
+		System.out.println("Cambio_23");
+		System.out.println("Cambio_24");		
+		
+		System.out.println("Cambio_25");
+		System.out.println("Cambio_26");
 	}
 
 }
