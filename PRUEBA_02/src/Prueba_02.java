@@ -57,6 +57,9 @@ public class Prueba_02 {
 		
 		System.out.println("Cambio_42");
 		System.out.println("Cambio_43");
+		
+		System.out.println("Cambio_50");
+		System.out.println("Cambio_51");
 	}
 
 }
