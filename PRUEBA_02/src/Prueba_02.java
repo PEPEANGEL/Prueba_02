@@ -32,7 +32,7 @@ public class Prueba_02 {
 		
 		System.out.println("Cambio_17");
 		System.out.println("Cambio_18");
-		
+
 		System.out.println("Cambio_19");
 		System.out.println("Cambio_20");		
 		
@@ -44,6 +44,15 @@ public class Prueba_02 {
 		
 		System.out.println("Cambio_25");
 		System.out.println("Cambio_26");
+		
+		System.out.println("Cambio_27");
+		System.out.println("Cambio_28");
+		
+		
+		System.out.println("Cambio_29");
+		System.out.println("Cambio_30");
+
+		
 	}
 
 }
