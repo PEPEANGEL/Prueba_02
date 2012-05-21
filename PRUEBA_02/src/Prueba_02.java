@@ -32,6 +32,12 @@ public class Prueba_02 {
 		
 		System.out.println("Cambio_17");
 		System.out.println("Cambio_18");
+		
+		System.out.println("Cambio_19");
+		System.out.println("Cambio_20");		
+		
+		System.out.println("Cambio_21");
+		System.out.println("Cambio_22");
 	}
 
 }
